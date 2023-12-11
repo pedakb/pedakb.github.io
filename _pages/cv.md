@@ -11,4 +11,4 @@ toc:
   sidebar: 
 ---
 
-You may find my CV [here](/assets/pdf/example_pdf.pdf).
+You may find my CV [[here](/assets/pdf/pedakb_cv.pdf)].
