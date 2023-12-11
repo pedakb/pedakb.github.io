@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
+# <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -15,12 +16,12 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am PhD student at the [University of Texas at Austin](https://www.utexas.edu/), working with [Prof. Nhat Ho](https://nhatptnk8912.github.io/).
+I'm a PhD student in [Electrical and Computer Engineering department](https://www.ece.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/), working with [Prof. Nhat Ho](https://nhatptnk8912.github.io/).
 
-I develop large-scale machine learning models and algorithms, aiming for practical yet fundamental solutions to key challenges in learning, inference, and optimization. My work contributes to combining theoretical insights with real-world applications, enhancing the scalability and efficiency of AI/ML models. Particularly, my current research focuses on Mixture-of-Experts (MoE), Federated Learning (FL), and Large-scale Optimization.
+I am interested in scalability and efficiency of large-scale machine learning models, with a specific interest in Mixture-of-Experts, Federated Learning, and Optimization by bridging theory with practical applications.
 
-Prior to my PhD I recieved a bachelor's degree in electrical and computer engineering from University of Tehran, Iran.
+Prior to UT, I recieved my bachelor's degree in Electrical and Computer Engineering from University of Tehran, Iran.
