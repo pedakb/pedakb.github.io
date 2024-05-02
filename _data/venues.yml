@@ -2,5 +2,11 @@
   url: https://nips.cc/
   color: "#a52a2a"
 
+"ICLR":
+  color: "#B7950B"
+
+"ICML":
+  color: "#b3b7bf"
+
 "Preprint":
   color: "#b3b7bf" 
