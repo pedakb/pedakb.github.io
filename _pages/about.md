@@ -2,17 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-# <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <i class="fas fa-envelope"></i> <a href="mailto:akbarian@utexas.edu">Email</a> | <i class="fab fa-github"></i> <a href="https://github.com/pedakb">GitHub</a> | <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/pedram-akbarian-10695a100/">LinkedIn</a> | <i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?hl=en&user=WDYtbiMAAAAJ">Google Scholar</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  more_info: >
+    <p> Email: akbarian@utexas.edu </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,8 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in [Electrical and Computer Engineering department](https://www.ece.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/), working with [Prof. Nhat Ho](https://nhatptnk8912.github.io/).
+I’m a PhD student in the Electrical and Computer Engineering Department at the University of Texas at Austin, advised by [Prof. Nhat Ho](https://nhatptnk8912.github.io/). My research centers on advancing the scalability and efficiency of foundation models, with a particular focus on Mixture of Experts (MoE) architectures.
 
-I am interested in scalability and efficiency of large-scale machine learning models, with a specific interest in Mixture-of-Experts, Federated Learning, and Optimization by bridging theory with practical applications.
+I am working on two primary research directions:
 
-Prior to UT, I recieved my bachelor's degree in Electrical and Computer Engineering from University of Tehran, Iran.
+- **Efficient Training and Inference for Foundation Models:** Focusing on statistical efficiency and training dynamics of Mixture of Experts (MoE) architectures to enhance scalability and performance in large foundation models.
+
+- **Time Series Foundation Models:** Exploring the fundamental limits and methodologies for developing scalable and generalizable models for time series analysis, with an emphasis on enhancing numerical reasoning capabilities.
+
+Prior to joining UT Austin, I completed my Bachelor’s degree in Electrical Engineering with a minor in Computer Engineering at the University of Tehran, Iran

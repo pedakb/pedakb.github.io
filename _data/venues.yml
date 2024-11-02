@@ -1,12 +1,11 @@
 "NeurIPS":
-  url: https://nips.cc/
-  color: "#B7950B"
+  color: "#bf5700"
 
 "ICLR":
-  color: "#873600"
+  color: "#bf5700"
 
 "ICML":
-  color: "#138D75"
+  color: "#bf5700"
 
 "Preprint":
-  color: "#b3b7bf" 
+  color: "#828282" 
