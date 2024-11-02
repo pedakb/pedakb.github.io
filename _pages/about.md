@@ -25,6 +25,4 @@ Currently, I am working on two primary research directions:
 
 - **Time Series Foundation Models:** Exploring the fundamental limits and methodologies for developing scalable and generalizable models for time series analysis, with an emphasis on enhancing numerical reasoning capabilities.
 
-Prior to joining UT Austin, I completed my Bachelor’s degree in Electrical Engineering with a minor in Computer Engineering at the University of Tehran, Iran. 
-
-See my [CV](/assets/pdf/pedram_akbarian_cv.pdf) for more details.
+Prior to joining UT Austin, I completed my Bachelor’s degree in Electrical Engineering with a minor in Computer Engineering at the University of Tehran, Iran. See my [CV](/assets/pdf/pedram_akbarian_cv.pdf) for more details.
