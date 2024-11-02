@@ -10,4 +10,4 @@ toc:
   sidebar: false
 ---
 
-You can download a PDF version of my CV [here](/assets/pdfs/pedram_akbarian_cv.pdf).
+You can download a PDF version of my CV [here](/assets/pdf/pedram_akbarian_cv.pdf).
