@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I’m a PhD student in the Electrical and Computer Engineering Department at the University of Texas at Austin, advised by [Prof. Nhat Ho](https://nhatptnk8912.github.io/). I'm broadly interested in theoretical and practical aspects of modern machine learning, with a focus on understanding the fundamental principles of designing and training scalable and efficient foundation models.
+I’m a PhD student in the Electrical and Computer Engineering Department at the University of Texas at Austin, advised by [Prof. Nhat Ho](https://nhatptnk8912.github.io/) and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). I'm broadly interested in theoretical and practical aspects of modern machine learning, with a focus on understanding the fundamental principles of designing and training scalable and efficient foundation models.
 
 Currently, I am working on two primary research directions:
 
