@@ -3,9 +3,9 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.DS_store
-.ruby-version
+.DS_Store
 .tweet-cache
-Gemfile.lock
+.venv/
+node_modules/
 vendor
 

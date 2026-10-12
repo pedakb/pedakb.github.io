@@ -124,7 +124,7 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: google-site-verification=3NQaIkSazo5rRCBbi6xRrrv7vVxnA1wNxWv5uyPocVc# your google-site-verification ID (Google Search Console)
+google_site_verification: 3NQaIkSazo5rRCBbi6xRrrv7vVxnA1wNxWv5uyPocVc # your Google Search Console verification token
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -138,7 +138,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
@@ -225,8 +225,18 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages/about.md", "_pages/publications.md", "_pages/cv.md", "_pages/news.md"]
+include: ["_pages/about.md", "_pages/publications.md", "_pages/cv.md", "_pages/news.md", "_pages/404.md"]
 exclude:
+  # Stock al-folio examples are retained as references, but are not part of this site.
+  - _posts/
+  - _projects/
+  - assets/audio/
+  - assets/bibliography/
+  - assets/html/
+  - assets/jupyter/
+  - assets/json/
+  - assets/plotly/
+  - assets/video/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -257,7 +267,6 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
